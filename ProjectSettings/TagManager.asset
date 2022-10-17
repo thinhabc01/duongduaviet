@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - cho
+  - ga
+  - voi
+  - item1
+  - item2
+  - item3
+  - dtot
+  - dxau
+  - dlay
+  - water
+  - play1
+  - play2
+  - play3
+  - play4
+  - sky
+  - back
+  - bg1
+  - bg2
+  - t
+  - w
+  - r
+  - may
+  - backleft
+  - backright
+  - ground
+  - jumppoint
+  - bom
+  - dan
+  - start
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - bg
+  - w
+  - play1
+  - play2
+  - play3
+  - play4
+  - back
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1533414601
+    locked: 0
+  - name: mua
+    uniqueID: 2079577155
+    locked: 0
+  - name: Ground
+    uniqueID: 3660963691
+    locked: 0
+  - name: Player
+    uniqueID: 3062871147
+    locked: 0
+  - name: Water
+    uniqueID: 2903274165
+    locked: 0
+  - name: item
+    uniqueID: 3749090005
+    locked: 0
+  - name: Layer Menu
+    uniqueID: 2738204701
+    locked: 0
